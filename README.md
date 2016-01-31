@@ -2,6 +2,9 @@
 
 Graphical Gauge displayed on ILI9341 on Arduino DUE (+VGA support), used thermistor NTC103 (10Kohm at 25°C), used 4color bitmap for gauge background image (for saving memory).
 
+Video:
+https://www.youtube.com/watch?v=Khmu4csjXqI
+
 <img src="images/001.jpg" />
 <img src="images/002.jpg" />
 <img src="images/003.jpg" />
