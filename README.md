@@ -5,7 +5,7 @@ Graphical Gauge displayed on ILI9341 on Arduino DUE (+VGA support), used thermis
 <img src="images/001.jpg" />
 <img src="images/002.jpg" />
 <img src="images/003.jpg" />
-
+<pre>
 /******************************************************************************/
 /*                                                                            */
 /*  THERMOMETER GAUFE EXAMPLE FOR ARDUINO DUE                                 */
@@ -56,3 +56,4 @@ Graphical Gauge displayed on ILI9341 on Arduino DUE (+VGA support), used thermis
 /*  42 = Vsync --[ 82R]--  = VGA 14                                           */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
+</pre>
